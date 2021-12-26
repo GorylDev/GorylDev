@@ -1,0 +1,10 @@
+name: BansByGoryl
+version: '1.0'
+main: me.goryl.bansbygoryl.BansByGoryl
+api-version: 1.17
+authors: [ Goryl ]
+description: Ban GUI Plugin By @Goryl.
+commands:
+  ban:
+    description: Smart Ban GUI Plugin by @Goryl.
+    usage: /<command>
